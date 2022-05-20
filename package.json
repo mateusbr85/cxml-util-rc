@@ -6,7 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["brasil",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusbr85/cxml-util-rc"
+  },
+  "keywords": [
+    "brasil",
     "nota fiscal",
     "conversor xml",
     "cxml",
@@ -42,5 +47,9 @@
   "license": "ISC",
   "dependencies": {
     "xml-js": "^1.6.11"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/mateusbr85/cxml-util-rc/issues"
+  },
+  "homepage": "https://github.com/mateusbr85/cxml-util-rc/blob/main/README.md"
 }
